@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "PostaAi",
+    "slug": "posta-ai",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/icon.png",
+      "resizeMode": "contain"
+    }
+  }
+}
